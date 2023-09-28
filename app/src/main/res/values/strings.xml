@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">KinoApp</string>
+    <string name="movie_poster">Movie poster</string>
+    <string name="screen_title_movies_list">Movies List</string>
+    <string name="unknown_movie_name">Unknown movie name</string>
+    <string name="empty_movie_description">Empty movie description</string>
+    <string name="unexpected_error_try_again">Unexpected error, try again.</string>
+    <string name="error_loading_from_server_try_again">Error loading from server, try again</string>
+    <string name="description_is_not_found">Description is not found</string>
+</resources>
